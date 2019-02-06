@@ -1,0 +1,1 @@
+unzip ../Resources/Data/ZipFiles/\* -d ../Resources/Data/RawData
