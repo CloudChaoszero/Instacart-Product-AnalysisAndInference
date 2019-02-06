@@ -11,7 +11,9 @@ I'll be contributing to this project's analytic lifecycle for the following
 2. Analytics
 3. Inference
 
-Moreover, if there any additional feature items or questions from future people of interest, stakeholders, I am happy to provide them.  
+More inital discussion, scoping, and preliminary design can be found in this [design documentation](Documentation/DesignDocument.md)
+
+If there any additional feature items or questions from future people of interest, stakeholders, I am happy to provide them.  
 
 Feel free to message me [via Linkedin](https://www.linkedin.com/in/raulm8/)
 
@@ -33,3 +35,7 @@ Feel free to message me [via Linkedin](https://www.linkedin.com/in/raulm8/)
         ii. ZipFiles
 
 ## FAQ
+
+1. What is the purpose of this project
+
+    a. Please see the [design documentation](Documentation/DesignDocument.md) for more details
