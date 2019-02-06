@@ -19,4 +19,17 @@ Feel free to message me [via Linkedin](https://www.linkedin.com/in/raulm8/)
 
 ## Resources
 
+## Directory & Infrastructure
+
+1. Analytics
+
+2. DataEngineering
+    a. Python or .ipynb File
+    b. Bash Script
+3. Resources
+
+    a. Data
+        i. RawData 
+        ii. ZipFiles
+
 ## FAQ
