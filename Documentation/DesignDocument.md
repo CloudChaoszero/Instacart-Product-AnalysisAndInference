@@ -38,15 +38,39 @@ Lastly, this project serves as an opportunity to showecase the types of analyses
 
 ### Goals and Non-Goals
 
+* Goals
+    
+    * Provide concise and clear detail and implementation of Data Engineering (ETL process) for users adopting project
+    
+    * Provide In-depth and qualitative exploratory analysis before proceeding into forecasting or any other advanced statistical analysis
+
+* Non-Goals
+    
+    * Do not provide full fledged pipeline due to lack of updates in data (static data--not real time ingestion)
+    
+    * Not proceeding with excessive amount of machine learning models, but focusing only on key models for answering questions
+    
 ### Milestones
+
+TBA...
 
 ### Existing Solution
 
+Project was published in 2017-2018, so there may be other existing solutions that were recommended and implemented from Instacart team.
+
 ### Proposed Solution
+
+TBA...
 
 ### Impact
 
+* Opportunity to showcase full-fledged analytics and technical practices
+
+* Drive analyses to provide potential recommendations for provided Instacart data (though that may have changed since this is aged data)
+
 ### Open Questions/FAQ
+
+TBA...
 
 ### Details and Timeline Scoping
 
@@ -54,5 +78,8 @@ Expected delivery of project in Mid-February 2019
 
 ## 3. Implementation
 
+TBA...
+
+## Resources
 
 [Writing a good Design Document](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
