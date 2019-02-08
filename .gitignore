@@ -2,3 +2,4 @@ Resources/Data/*
 .DS_Store
 *.ipynb_checkpoints/*
 *.ipynb_checkpoints
+Resources/Admin/*
