@@ -3,3 +3,7 @@ Resources/Data/*
 *.ipynb_checkpoints/*
 *.ipynb_checkpoints
 Resources/Admin/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
