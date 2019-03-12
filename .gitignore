@@ -7,3 +7,5 @@ Resources/Admin/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+
+**/TEST_ML/
