@@ -1,4 +1,4 @@
-# Instacart Market Basket Analytics and Inference
+# Instacart Market Basket Analytics
 
 
 ## Introduction
@@ -9,7 +9,7 @@ I'll be contributing to this project's analytic lifecycle for the following
 
 1. ETL pipeline
 2. Analytics
-3. Inference
+3. Forecasting
 
 More inital discussion, scoping, and preliminary design can be found in this [design documentation](Documentation/DesignDocument.md)
 
@@ -25,8 +25,14 @@ Feel free to message me [via Linkedin](https://www.linkedin.com/in/raulm8/)
 
 1. Analytics
 
+    a. Analysis
+    
+    b. Forecasting
+
 2. DataEngineering
+    
     a. Python or .ipynb File
+    
     b. Bash Script
 3. Resources
 
