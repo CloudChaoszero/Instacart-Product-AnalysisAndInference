@@ -27,17 +27,19 @@ Feel free to message me [via Linkedin](https://www.linkedin.com/in/raulm8/)
 
     a. Analysis
     
-    b. Forecasting
+    b. Forecasting (TODO): Needs further preliminary investigation
 
 2. DataEngineering
     
     a. Python or .ipynb File
     
     b. Bash Script
+    
 3. Resources
 
     a. Data
         i. RawData 
+        
         ii. ZipFiles
 
 ## FAQ

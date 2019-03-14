@@ -18,7 +18,9 @@ Raul Maldonado
 
 ### Overview
 
-Instacart released a sample of Product and Order related data for model prediction/forecasting via Kaggle in 2017. We dive into the data to determine any key Inscart related habits and additional information through Exploratory Data Analysis. Thereafter, we proceed into going through Inference and additional advanced statistical models of predicting order related habits or anything derived from our analyses.
+Instacart released a sample of Product and Order related data for model prediction/forecasting via Kaggle in 2017. We dive into the data to determine any key Inscart related habits and additional information through Exploratory Data Analysis. Thereafter, we proceed into going through additional advanced statistical models of predicting order related habits or anything derived from our analyses.
+
+Update (3/14): I took out the inference portion and settles for forecasting in the 2nd phase of the analysis.
 
 ### Context
 
@@ -26,9 +28,7 @@ Project serves as an opportunity to showcase Data ETL related actions to deliver
 
 1. Essential Exploratory Data Analysis
 
-2. A/B Testing
-
-3. Forecasting
+2. Forecasting
 
 From these analyses, we determine any particular associations of data from users and make recommendations.
 
@@ -52,7 +52,12 @@ Lastly, this project serves as an opportunity to showecase the types of analyses
     
 ### Milestones
 
-TBA...
+1. Data ETL (February)
+
+2. Analysis (End of February)
+
+3. Forecasting (End of February)
+
 
 ### Existing Solution
 
@@ -70,7 +75,14 @@ TBA...
 
 ### Open Questions/FAQ
 
-TBA...
+* What models to consider for predicting next ordered item for some given customer
+
+* For forecasting what signals indicate re-ordering of a product,
+
+    * Would I need more signals?
+    
+    * Would deeper feature engineering be sufficient?
+    
 
 ### Details and Timeline Scoping
 
@@ -78,7 +90,9 @@ Expected delivery of project in Mid-February 2019
 
 ## 3. Implementation
 
-TBA...
+* Python
+
+* Jupyter Notebook
 
 ## Resources
 
